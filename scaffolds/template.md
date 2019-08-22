@@ -2,8 +2,8 @@
 title: My awesome title
 date: 2019-08-22 16:08:56
 categories: 
-    - 分类1
-    - 分类2
+    - 博客
+    - 工具
 tags: 
     - 标签1
     - 标签2
