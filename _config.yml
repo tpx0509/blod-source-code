@@ -79,5 +79,5 @@ theme: diaspora
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git 
-  repo : git@github.com:tpx0509/tpx0509.github.io.git
+  repo : git@30.105.139.71:/home/git/blog.git ##git@github.com:tpx0509/tpx0509.github.io.git
   branch : master
